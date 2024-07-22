@@ -334,14 +334,14 @@ export const DEFAULT_SCROLLBAR_WIDTH = 17;
 export const TASKBAR_HEIGHT = 30;
 
 export const PACKAGE_DATA = {
-  alias: "daedalOS",
+  alias: "Arifcan Balta",
   author: {
-    email: "dustinbrett@gmail.com",
-    name: "Dustin Brett",
-    npub: "npub10uc7hg6wdxhhd7ee8x9c5lr9d0ux7272rv2m0mc03ds54q7quxjss02r3p",
-    url: "https://dustinbrett.com",
+    email: "baltarifcan@gmail.com",
+    name: "Arifcan Balta",
+    npub: "npub1gut2ea9fuucaac6zz6cjj4tc67avqqg5ce7nm08ds8jvjextcrjsr3kn7p",
+    url: "https://arifcanbalta.com",
   },
-  description: "Desktop environment in the browser",
+  description: "A personal website",
   license: "MIT",
   version: "2.0.0",
 };
