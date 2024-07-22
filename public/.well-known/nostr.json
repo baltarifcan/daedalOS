@@ -1,0 +1,16 @@
+{
+  "names": {
+    "baltarifcan": "a25719e67548b5ebc2fc315179953528cb10818075810645f2fb38e349ad831c"
+  },
+  "relays": {
+    "a25719e67548b5ebc2fc315179953528cb10818075810645f2fb38e349ad831c": [
+      "wss://nos.lol/",
+      "wss://nostr.land/",
+      "wss://nostr.wine/",
+      "wss://purplerelay.com/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.band/",
+      "wss://relay.snort.social/"
+    ]
+  }
+}
