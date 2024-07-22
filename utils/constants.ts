@@ -338,7 +338,7 @@ export const PACKAGE_DATA = {
   author: {
     email: "baltarifcan@gmail.com",
     name: "Arifcan Balta",
-    npub: "npub1gut2ea9fuucaac6zz6cjj4tc67avqqg5ce7nm08ds8jvjextcrjsr3kn7p",
+    npub: "npub15ft3nen4fz67hshux9ghn9f49r93pqvqwkqsv30jlvuwxjddsvwqsf2mff",
     url: "https://arifcanbalta.com",
   },
   description: "A personal website",
